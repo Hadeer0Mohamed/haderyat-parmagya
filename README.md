@@ -1,5 +1,5 @@
 # Haderyat Parmagyaa
-
+by Hadeer Mohammed
 All the essential tools and resources for front-end developers, conveniently packed into one powerful extension. Your one-stop shop for streamlined coding, design, and productivity!
 
 ## Table of Contents
@@ -43,4 +43,3 @@ Follow the [contributing guidelines](CONTRIBUTING.md) to get started.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-Thank You
